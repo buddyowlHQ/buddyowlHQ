@@ -1,6 +1,5 @@
 <img width="500" height="337" alt="WiffleGif" src="https://github.com/user-attachments/assets/5484621b-a7eb-4ee2-bc37-f1f74ce1fe21" />
-<img width="426" height="240" alt="oh mr plumber, plunge my toilet (@oicuperp) on Tumblr" src="https://github.com/user-attachments/assets/a0bab40b-a185-42c4-aac8-2e8e62ea3b6a" />
-
+my goal in life is to achieve the same level of whimsy that paul mccartney has
 
 
 <!--
