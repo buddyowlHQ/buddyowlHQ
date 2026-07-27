@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="500" height="337" alt="WiffleGif" src="https://github.com/user-attachments/assets/5484621b-a7eb-4ee2-bc37-f1f74ce1fe21" />
+
 
 <!--
 **buddyowlHQ/buddyowlHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
