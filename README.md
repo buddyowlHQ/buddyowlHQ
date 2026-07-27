@@ -1,6 +1,6 @@
 <img width="500" height="337" alt="WiffleGif" src="https://github.com/user-attachments/assets/5484621b-a7eb-4ee2-bc37-f1f74ce1fe21" />
 
-──── ୨୧ ────
+                        ──── ୨୧ ────
 
 my goal in life is to achieve the same level of whimsy that paul mccartney has
 
