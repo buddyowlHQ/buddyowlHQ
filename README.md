@@ -1,7 +1,6 @@
 <div align="center">
 
- <img width="736" height="141" alt="download__12_-removebg-preview" src="https://github.com/user-attachments/assets/4a824cc3-75fc-426d-88a7-5d5732d9e6c6" />
-
+<img width="1280" height="50%" alt="willy page" src="https://github.com/user-attachments/assets/3b929399-4a77-4b49-b122-1a1fdbc047ba" />
 
 <img width="500" height="337" alt="WiffleGif" src="https://github.com/user-attachments/assets/5484621b-a7eb-4ee2-bc37-f1f74ce1fe21" />
 
@@ -9,7 +8,8 @@
 
 my goal in life is to achieve the same level of whimsy that paul mccartney has
 
- <img width="736" height="141" alt="download__12_-removebg-preview" src="https://github.com/user-attachments/assets/4a824cc3-75fc-426d-88a7-5d5732d9e6c6" />
+<img width="1280" height="50%" alt="willy page" src="https://github.com/user-attachments/assets/3b929399-4a77-4b49-b122-1a1fdbc047ba" />
+
 <!--
 **buddyowlHQ/buddyowlHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
