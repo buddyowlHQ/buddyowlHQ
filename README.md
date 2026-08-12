@@ -7,7 +7,7 @@
 ***nothing's gonna change my world.***
 ***nothing's gonna change, my world.***
 
-<img width="500" height="237" alt="WiffleGif" src="https://github.com/user-attachments/assets/5484621b-a7eb-4ee2-bc37-f1f74ce1fe21" />
+<img width="500" height="337" alt="WiffleGif" src="https://github.com/user-attachments/assets/5484621b-a7eb-4ee2-bc37-f1f74ce1fe21" />
 
  ദ്ദി/ᐠ｡‸｡ᐟ\
 
