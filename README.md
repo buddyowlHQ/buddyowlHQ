@@ -13,6 +13,8 @@
 
 my goal in life is to achieve the same level of whimsy that paul mccartney has
 
+[strawpage](https://buddyowl.straw.page/).[pinterest](https://www.pinterest.com/onceuponat1m3/).[atabook](https://buddyowl.atabook.org/)
+
 <img width="1280" height="110" alt="willy page" src="https://github.com/user-attachments/assets/3b929399-4a77-4b49-b122-1a1fdbc047ba" />
 
 <!--
